@@ -1,0 +1,8 @@
+{
+  "name": "MedSahayak_Final",
+  "description": "A simplified, multilingual AI medical assistant for rural healthcare assessment using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
